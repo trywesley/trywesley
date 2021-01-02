@@ -2,7 +2,7 @@ Oi 👍
 =================
 Faço algumas coisas em JS, GO e PY! Estou sem computador agora, então não colocarei repositórios públicos, só se for algum bem escroto que fiz a toa.
 
-https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true
+![Stats](https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true&theme=dracula)
 
 <!--
 **trywesley/trywesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
