@@ -1,6 +1,7 @@
 Oi 👍
 =================
 Faço algumas coisas em JS, GO e PY! Estou sem computador agora, então não colocarei repositórios públicos, só se for algum bem escroto que fiz a toa.
+
 [Stats!](https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true)
 
 <!--
