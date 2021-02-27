@@ -4,9 +4,9 @@ I do some projects in **JavaScript**, **Golang** and sometimes **Python** using 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true)
 
-That's all, folks! 😚
+Visit my [discord bot project](https://github.com/trywesley/desposito) *~~its the only repository that i update frequently*
 
-# Visit my [discord bot project](https://github.com/trywesley/desposito) *~~its the only repository that i update frequently*
+That's all, folks! 😚
 <!--
 **trywesley/trywesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
