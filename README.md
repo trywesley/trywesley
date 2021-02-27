@@ -1,6 +1,6 @@
 # Hey, buddy!
 
-I do some projects in **JavaScript**, **Golang** and sometimes **Python** using my cell phone, so don't expect repositories with extraordinary projects. I thank you for visiting!
+I do some projects in **JavaScript**, **Golang** and sometimes **Python** using my cell phone, so don't expect repositories with extraordinary projects. I speak portuguese too. Thanks a lot for visiting!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true)
 
