@@ -1,9 +1,10 @@
-Oi 👍
+Hey, buddy!
 =================
-Faço algumas coisas em JS, GO e PY! Estou sem computador agora, então não colocarei repositórios públicos, só se for algum bem escroto que fiz a toa.
+I do some projects in JS, GO and sometimes PY using my cell phone, so don't expect repositories with extraordinary projects. I thank you for visiting!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true)
 
+That's all, folks! 😚
 <!--
 **trywesley/trywesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
