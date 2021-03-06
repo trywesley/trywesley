@@ -2,7 +2,7 @@
 
 I do some projects in **JavaScript**, **Golang** and sometimes **Python** using my cell phone, so don't expect repositories with extraordinary projects. I speak portuguese too. Thanks a lot for visiting!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=trywesley&show_icons=true&hide=issues,prs&count_private=true)
 
 Visit my [discord bot project](https://github.com/trywesley/desposito) *~~its the only repository that i update frequently*
 
